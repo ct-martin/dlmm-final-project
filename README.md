@@ -1,6 +1,8 @@
 # Generating Descriptive Image Captions
 
-(TODO)
+Code for processing the Cooper Hewitt dataset and attempting to fine-tune the Salesforce BLIP model.
+
+Other part of project available here: <https://github.com/embedded-robotics/deep-learning-multimodal-systems-final-project>
 
 ## Dataset Preparation
 
