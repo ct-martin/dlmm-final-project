@@ -1,2 +1,15 @@
+# Data directories
+data/**
+media/**
+
+# Generated files
+*.csv
+*.json
+nocaps-*.txt
+
+# Files manually created when doing tests
 blip-image-captioning-base-finetune/*
 cooperhewitt-image-dataset/*
+*.zip
+*.tar.gz
+sample.json
