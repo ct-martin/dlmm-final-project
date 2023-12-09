@@ -1,6 +1,6 @@
 # Generating Descriptive Image Captions
 
-Code for processing the Cooper Hewitt dataset and attempting to fine-tune the Salesforce BLIP model.
+Code for processing the Cooper Hewitt dataset and attempting to fine-tune the Salesforce BLIP model for _Deep Learning & Multimodal Systems_ with Prof. Abhijit Mishra.
 
 Other part of project available here: <https://github.com/embedded-robotics/deep-learning-multimodal-systems-final-project>
 
